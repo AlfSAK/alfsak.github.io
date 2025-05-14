@@ -4,5 +4,3 @@
 
 layout: home
 ---
-## Wilkommen auf meiner Jekyll Test Seite!
-Hier habe ich auf Github umsonst eine Webpage erstellt.
